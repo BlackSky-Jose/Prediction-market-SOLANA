@@ -20,6 +20,7 @@ DecentraPredict is an open-source decentralized prediction market built on Solan
 
 ## 🎞 How it works
 You can check the guide video here:
+
 https://github.com/user-attachments/assets/8f48a641-7edb-4af3-a17e-c5464bfef660
 
 ---
